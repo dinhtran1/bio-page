@@ -34,7 +34,7 @@
 Other than being a party guy, which I'm really not, I'm a figure skater!!</p>
       </div>
       <div class="col-md-5">
-        <img src="Final6.png" alt="Dinh Tran" width="400" height="400">
+        <img src="Final6.png" alt="Dinh Tran" width="1920" height="1080">
 
       </div>
     </div>
@@ -62,7 +62,7 @@ Other than being a party guy, which I'm really not, I'm a figure skater!!</p>
    <hr class="featurette-divider">    
     
 <div class="jumbotron text-center" style="margin-bottom:0">
-  <p>Created by Dinh Tran the Party Man</p>
+  <p>Created by Dinh Tran the Party Man<a href="mailto:dinhtranskater@gmail.com">Dinh Tran</a> -  <a href="https://www.instagram.com/dinh__tran/?hl=en" target="_blank">Dinh Tran</a></p><p>Last updated 1000 years ago</p>
     <i class="fas fa-chalkboard-teacher" style="font-size:60px;color:gold;text-shadow:2px 2px 4px #000000;"></i>
 </div>
     </div>
